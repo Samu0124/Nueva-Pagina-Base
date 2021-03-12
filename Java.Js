@@ -248,3 +248,6 @@ function easteregg1(){
         function iratrabajo3(){
       window.location.href = "https://samu0124.github.io/Trabajo-Triple/";
     }
+            function iratrabajo4(){
+      window.location.href = "https://samu0124.github.io/juego/index.html";
+    }
